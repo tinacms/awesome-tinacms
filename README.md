@@ -2,9 +2,9 @@
 
 Hi there 👋
 
-This is a place to share [TinaCMS](https://tina.io) plugins, code examples, and other projects to extend Tina.
+This is a place to share [TinaCMS](https://tina.io) plugins, code examples, and other projects with the TinaCMS community.
 
-If you have a project that you'd like to share with the Tina community, please make a pull-request, with a link to your project from this readme file. 
+If you have a project that you'd like to share, please make a pull-request, with a link to your project from this Readme file. 
 
 ## Plugins
 
