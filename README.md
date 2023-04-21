@@ -13,7 +13,9 @@ If you have a project that you'd like to share, please make a pull-request, with
 
 ## Themes
 
+* [Tinasaurus](https://github.com/tinacms/tinasaurus): A documentation starter site, using Docusaurus + TinaCMS
 * [Blazity/next-saas-starter](https://github.com/Blazity/next-saas-starter): Free Next.js responsive landing page template for SaaS products made using JAMStack architecture.
+
 
 
 ## Code Samples
