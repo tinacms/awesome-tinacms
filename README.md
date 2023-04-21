@@ -9,3 +9,13 @@ If you have a project that you'd like to share, please make a pull-request, with
 ## Plugins
 
 * [TinaCMS SEO](https://github.com/pcode-at/tinacms-seo): Our vision of this package is to create the one stop shop for all your SEO concerns using TinaCMS, similar to the Wordpress Plugin Yoast.
+
+
+## Themes
+
+* [Blazity/next-saas-starter](https://github.com/Blazity/next-saas-starter): Free Next.js responsive landing page template for SaaS products made using JAMStack architecture.
+
+
+## Code Samples
+
+...coming soon
