@@ -1,4 +1,4 @@
-# Awesome TinaCMS
+# <img src="tina-icon.png" align="left" width="30"> Awesome TinaCMS 
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  
 
