@@ -1,10 +1,12 @@
-# TinaCMS Ecosystem
+# Awesome TinaCMS
 
-Hi there 👋
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  
 
-This is a place to share [TinaCMS](https://tina.io) plugins, code examples, and other projects with the TinaCMS community.
+👋 Hi, this is a curated list of awesome things related to TinaCMS.
 
-If you have a project that you'd like to share, please make a pull-request, with a link to your project from this Readme file. 
+TinaCMS is an open-source Markdown CMS that suppots visual editing.
+
+If you have a code-sample, custom field, theme, or plugin that you'd like to share, please make a pull-request and link to your project from this Readme file. 
 
 ## Custom Fields & Plugins
 
