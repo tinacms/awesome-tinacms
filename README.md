@@ -21,4 +21,4 @@ If you have a code-sample, custom field, theme, or plugin that you'd like to sha
 
 
 ## Code Samples 
-* [Tina + GitLab](https://gist.github.com/Webarkitekt/915f5d303f08e617950b4348a1b4b9c2) - using Tina's self-hosted solution with MongoDB
+* [Tina + GitLab](https://gist.github.com/Webarkitekt/915f5d303f08e617950b4348a1b4b9c2) - using Tina's self-hosted [data layer](https://github.com/tinacms/tinacms/discussions/3589) and MongoDB
