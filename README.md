@@ -20,7 +20,5 @@ If you have a code-sample, custom field, theme, or plugin that you'd like to sha
 * [Blazity/next-saas-starter](https://github.com/Blazity/next-saas-starter): Free Next.js responsive landing page template for SaaS products made using JAMStack architecture.
 
 
-
-## Code Samples
-
-...coming soon
+## Code Samples 
+* [Tina + GitLab](https://gist.github.com/Webarkitekt/915f5d303f08e617950b4348a1b4b9c2) - using Tina's self-hosted solution with MongoDB
