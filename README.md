@@ -18,6 +18,7 @@ If you have a code-sample, custom field, theme, or plugin that you'd like to sha
 * [Tina Marketing Site](https://github.com/tinacms/tina-cloud-starter): A Marketing site and MDX blog using Next.js and Tailwind
 * [Tinasaurus](https://github.com/tinacms/tinasaurus): A documentation starter site, using Docusaurus + TinaCMS
 * [Blazity/next-saas-starter](https://github.com/Blazity/next-saas-starter): Free Next.js responsive landing page template for SaaS products made using JAMStack architecture.
+* [Hydrogen Nextjs](https://statichunt.com/themes/nextjs-hydrogen): Hydrogen is a minimal NextJs Tailwind blog starter template.
 
 
 ## Code Samples 
