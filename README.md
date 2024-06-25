@@ -2,11 +2,14 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  
 
-👋 Hi, this is a curated list of awesome things related to [TinaCMS](https://tina.io). 😎
+Looking for some inspiration to level up 🦙TinaCMS?
+
+We've curated some tools, templates and starters that you will help you kick off your projects.
 
 TinaCMS is an open-source Markdown CMS that suppots visual editing.
 
 If you have a code-sample, custom field, theme, or plugin that you'd like to share, please make a Pull Request and link to your project from this README file.
+
 
 ---
 
@@ -26,3 +29,7 @@ If you have a code-sample, custom field, theme, or plugin that you'd like to sha
 * [Tina + GitLab](https://gist.github.com/Webarkitekt/915f5d303f08e617950b4348a1b4b9c2) - using Tina's self-hosted [data layer](https://github.com/tinacms/tinacms/discussions/3589) and MongoDB
 * [Prepend filename with date upon creation](https://gist.github.com/scottgallant/702b50eb2f473c47ce905aa531a106e5#file-config-ts-L8-L15)
 * [Adding a YouTube embed component to TinaCMS](https://www.delosian.pro/articles/adding-a-youtube-embed-component-to-tinacms)
+
+---
+
+Enjoy, from the [🦙 TinaCMS Team](https://tina.io)
