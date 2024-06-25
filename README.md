@@ -2,6 +2,8 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  
 
+<img src="https://mcusercontent.com/1fea337bee20e7270d025ea8a/images/7b5a4174-310d-e73f-1fff-91cab5dccaef.jpg" width="330">
+
 Looking for some inspiration to level up 🦙TinaCMS?
 
 We've curated some tools, templates and starters that you will help you kick off your projects.
