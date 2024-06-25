@@ -1,12 +1,14 @@
-# <img src="tina-icon.png" align="left" width="30"> Awesome TinaCMS 
+# <a href="https://tina.io"><img src="tina-icon.png" align="left" width="30"></a> Awesome TinaCMS 
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  
 
-👋 Hi, this is a curated list of awesome things related to TinaCMS.
+👋 Hi, this is a curated list of awesome things related to [TinaCMS](https://tina.io). 😎
 
 TinaCMS is an open-source Markdown CMS that suppots visual editing.
 
-If you have a code-sample, custom field, theme, or plugin that you'd like to share, please make a pull-request and link to your project from this Readme file. 
+If you have a code-sample, custom field, theme, or plugin that you'd like to share, please make a Pull Request and link to your project from this README file.
+
+---
 
 ## Custom Fields & Plugins
 
