@@ -26,6 +26,7 @@ If you have a code-sample, custom field, theme, or plugin that you'd like to sha
 * [Tinasaurus](https://github.com/tinacms/tinasaurus): A documentation starter site, using Docusaurus + TinaCMS
 * [Blazity/next-saas-starter](https://github.com/Blazity/next-saas-starter): Free Next.js responsive landing page template for SaaS products made using JAMStack architecture.
 * [Nuxt Tina CMS Starter](https://github.com/mmgolden/nuxt-tinacms-starter): A starter template for Nuxt 3, Nuxt Content, and Tina CMS
+* [Astro + Tina CMS Starter](https://github.com/klrfl/simple-blog-with-tina): an Astro + Tina CMS starter with visual editing implemented
 
 
 ## Code Samples 
